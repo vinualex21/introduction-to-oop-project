@@ -1,0 +1,15 @@
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\bin\Debug\net6.0\Intro2oop.exe
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\bin\Debug\net6.0\Intro2oop.deps.json
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\bin\Debug\net6.0\Intro2oop.runtimeconfig.json
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\bin\Debug\net6.0\Intro2oop.dll
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\bin\Debug\net6.0\Intro2oop.pdb
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.csproj.AssemblyReference.cache
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.AssemblyInfoInputs.cache
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.AssemblyInfo.cs
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.csproj.CoreCompileInputs.cache
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.dll
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\refint\Intro2oop.dll
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.pdb
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\Intro2oop.genruntimeconfig.cache
+D:\York\CV\IT\Tech Returners\Training\csharp-coding-exercises\introduction-to-oop-project\Intro2oop\Intro2oop\obj\Debug\net6.0\ref\Intro2oop.dll
